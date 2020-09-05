@@ -10,8 +10,9 @@
 <br/><hr/>
 계속해서 학습하고 나아지길 원하는 개발자 지망생 
 <br/><hr/><br/>
-
-  + Blog/Resume : https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd 😨 만든지는 얼마 안됬는데...<br/>
+  
+😨 만든지는 얼마 안됬는데...
+  + Blog/Resume : [Notion] (https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd) <br/>
   + Status      : 취준!
 
 
