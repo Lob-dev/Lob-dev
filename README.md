@@ -4,15 +4,15 @@
   + Age        : 23 💦<br/>
   + Email      : Coffeescript@kakao.com 💬<br/>
   + College    : Dong Seoul University 😱<br/>
-  + Blog       : https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd 😨 만든지는 얼마 안됬는데...<br/>
   + Use        : Java, Spring 5.X (SpringBoot 2.1.x , 2.2.x), SQL, Vanila JS (2015+), REST(HATEOAS) 😳<br/>
   + Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)<br/> 
                , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 <br/><hr/>
 계속해서 학습하고 나아지길 원하는 개발자 지망생 
-<br/><hr/>
+<br/><hr/><br/>
 
-  + Status     : 취준!
+  + Blog/Resume : https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd 😨 만든지는 얼마 안됬는데...<br/>
+  + Status      : 취준!
 
 
 
