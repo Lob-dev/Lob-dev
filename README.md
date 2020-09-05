@@ -12,7 +12,7 @@
 <br/><hr/><br/>
   
 😨 만든지는 얼마 안됬는데...
-  + Blog/Resume : [Notion] (https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd) <br/>
+  + Blog/Resume : [Notion](https://www.notion.so/Lob-Blog-e86c8c92c53442498dd68d5d67e9a1fd) <br/>
   + Status      : 취준!
 
 
