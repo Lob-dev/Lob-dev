@@ -8,7 +8,7 @@
   + Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)<br/> 
                , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 <br/><hr/>
-계속해서 학습하고 나아지길 원하는 개발자 지망생 
+기술에 대하여서 학습하고 어제의 나보다 더 발전하기위해 노력하는 개발자 지망생입니다.
 <br/><hr/><br/>
   
 😨 만든지는 얼마 안됬는데...
