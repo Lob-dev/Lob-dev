@@ -1,7 +1,7 @@
 ### 👻 SeokHyun Kim // Lob 
 <hr/><br/>
   + Name       : 김석현<br/>
-  + Age        : 23 💦<br/>
+  + Age        : 만 22 💦<br/>
   + Email      : Coffeescript@kakao.com 💬<br/>
   + College    : Dong Seoul University 😱<br/>
   + Use        : Java, Spring 5.X (SpringBoot 2.1.x , 2.2.x), SQL, Vanila JS (2015+), REST(HATEOAS) 😳<br/>
