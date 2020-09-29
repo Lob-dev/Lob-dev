@@ -4,7 +4,7 @@
   + Age        : 만 22 💦<br/>
   + Email      : Coffeescript@kakao.com 💬<br/>
   + College    : Dong Seoul University 😱<br/>
-  + Use        : Java, Spring 5.X (SpringBoot 2.1.x , 2.2.x), SQL, Vanila JS (2015+), REST(HATEOAS) 😳<br/>
+  + Use        : Java, Spring 5.X (SpringBoot 2.1.x , 2.2.x), SQL, REST(HATEOAS) 😳<br/>
   + Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)<br/> 
                , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 <br/><hr/>
