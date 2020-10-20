@@ -10,7 +10,10 @@
 <br/><hr/>
 기술에 대하여서 학습하고 어제의 나보다 더 발전하기위해 노력하는 개발자 지망생입니다.
 <br/><hr/><br/>
-  
+
+![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
+
+<hr/>
 😨 만든지는 얼마 안됬는데...
   + Blog/Resume : https://lob.oopy.io/ <br/>
   + Status      : 취준!
