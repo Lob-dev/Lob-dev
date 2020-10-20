@@ -1,6 +1,7 @@
 ### 👻 SeokHyun Kim // Lob 
-<hr/><br/>
 ![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
+<hr/><br/>
+
   + Name       : 김석현<br/>
   + Age        : 만 23 💦<br/>
   + Email      : Coffeescript@kakao.com 💬<br/>
