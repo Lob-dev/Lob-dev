@@ -13,7 +13,7 @@
 기술에 대하여서 학습하고 어제의 나보다 더 발전하기위해 노력하는 개발자 지망생입니다.
 <br/><br/>
 
-😨 만든지는 얼마 안됬는데...
+😨 
   + Blog/Resume : https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912 <br/>
   + Status      : 취준!
 <br/>
