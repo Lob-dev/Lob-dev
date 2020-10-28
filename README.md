@@ -14,7 +14,7 @@
 <br/><br/>
 
 😨 만든지는 얼마 안됬는데...
-  + Blog/Resume : https://lob.oopy.io/ <br/>
+  + Blog/Resume : https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912 <br/>
   + Status      : 취준!
 <br/>
 
