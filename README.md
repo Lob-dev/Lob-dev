@@ -1,23 +1,25 @@
 ### 👻 SeokHyun Kim // Lob 
+<br/>
+
+기술을 학습할 때, 왜? 를 중요시하고 이전의 나보다 더 발전하기위하여 지속적으로 노력하고 있는 개발자 지망생입니다.
+
+<br/>
+
+![](https://img.shields.io/github/followers/Lob-dev?style=social)
+
+
 ![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
 <hr/><br/>
 
-  + Name       : 김석현<br/>
-  + Age        : 만 23 💦<br/>
-  + Email      : Coffeescript@kakao.com 💬<br/>
-  + College    : Dong Seoul University 😱<br/>
-  + Use        : Java, Spring 5.X (SpringBoot 2.1.x , 2.2.x), SQL, REST(HATEOAS) 😳<br/>
-  + Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)<br/> 
-               , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
+[Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) 
+
+  Age : 23 💦<br/>
+  Coffeescript@kakao.com💬<br/>
+  Dong Seoul University 😱<br/>
+  Use : Java, Spring 😳<br/>
+  Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)
+ , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 <br/><hr/>
-기술에 대하여서 학습하고 어제의 나보다 더 발전하기위해 노력하는 개발자 지망생입니다.
-<br/><br/>
-
-😨 
-  + Blog/Resume : https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912 <br/>
-  + Status      : 취준!
-<br/>
-
 
 <!--
 **coffeescriptSERRL/coffeescriptSERRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
