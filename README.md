@@ -12,6 +12,7 @@
 <hr/><br/>
 
 [Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) 
+[Tistory Blog](https://lob-dev.tistory.com/)
 
   Age : 23 💦<br/>
   Coffeescript@kakao.com💬<br/>
