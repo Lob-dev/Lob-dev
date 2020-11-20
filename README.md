@@ -22,6 +22,15 @@
  , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 <br/><hr/>
 
+온라인 커뮤니티
+Discord [Join](https://discord.gg/szKX4CtWBa)
+누구나 오셔서 자유롭게 이야기 하실 수 있습니다.
+음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다.
+
+라이브 코딩
+코딩 수다
+개발 이야기
+
 <!--
 **coffeescriptSERRL/coffeescriptSERRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
