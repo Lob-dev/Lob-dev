@@ -14,12 +14,12 @@
 [Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) 
 [Tistory Blog](https://lob-dev.tistory.com/)
 
-  Age : 23 💦<br/>
-  Coffeescript@kakao.com💬<br/>
-  Dong Seoul University 😱<br/>
-  Use : Java, Spring 😳<br/>
-  Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)
+Age : 23 💦<br/><br/>
+Coffeescript@kakao.com💬<br/><br/>
+Use : Java, Spring 😳<br/><br/>
+Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)
  , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
+
 <br/><hr/>
 
 ## 온라인 커뮤니티
