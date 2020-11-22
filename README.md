@@ -1,6 +1,9 @@
 ### 👻 SeokHyun Kim // Lob 
 <br/>
 
+Age : 23 💦<br/><br/>
+Coffeescript@kakao.com💬<br/><br/>
+
 기술을 학습할 때, 왜? 를 중요시하고 이전의 나보다 더 발전하기위하여 지속적으로 노력하고 있는 개발자 지망생입니다.
 
 <br/>
@@ -13,12 +16,6 @@
 
 [Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) 
 [Tistory Blog](https://lob-dev.tistory.com/)
-
-Age : 23 💦<br/><br/>
-Coffeescript@kakao.com💬<br/><br/>
-Use : Java, Spring 😳<br/><br/>
-Interest   : NestJS, Jenkins, TDD(Test-Driven Development), OOP(Object-Oriented-Programming), OOD(Object-Oriented-Design)
- , DDD(Domain-Driven-Design), ORM(JPA), HTTP/S, Git (Git Bash, Source Tree) 💀
 
 <br/><hr/>
 
