@@ -6,6 +6,8 @@ Coffeescript@kakao.com💬<br/><br/>
 
 기술을 학습할 때, 왜? 를 중요시하고 이전의 나보다 더 발전하기위하여 지속적으로 노력하고 있는 개발자 지망생입니다.
 
+<br/>
+
 **현재 진행중인 프로젝트**
 
 [플랫폼](https://github.com/thenaun-workspace/somaeja)
