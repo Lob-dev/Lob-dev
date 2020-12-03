@@ -21,8 +21,9 @@ Coffeescript@kakao.com💬<br/><br/>
 ![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
 <br/>
 
-[Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) 
-[Tistory Blog](https://lob-dev.tistory.com/)
+[Resume](https://www.notion.so/Resume-Web-Developer-e51c02b15e89401abe00604d95d4846d) <br/>
+[Tistory Blog](https://lob-dev.tistory.com) <br/>
+[notion](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912) <br/>
 
 <br/>
 
