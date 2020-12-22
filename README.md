@@ -8,10 +8,6 @@ Coffeescript@kakao.com💬<br/><br/>
 
 <br/>
 
-**현재 진행중인 프로젝트**
-
-[플랫폼](https://github.com/thenaun-workspace/somaeja)
-
 
 <br/>
 
