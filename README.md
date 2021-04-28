@@ -1,7 +1,12 @@
 ### 👻 SeokHyun Kim // Lob 
 <br/>
 
-기술을 학습할 때 "왜?" 를 중요시하고 매일 한 발자국이라도 더 나아가기 위해 노력하는 개발자 지망생입니다.
+기술, 프레임워크에 대하여 구현에만 집중하는 것이 아니라 동작 원리와 흐름을 기반으로 학습하고, 좋은 설계와 코드 등을 찾아보며 이전에 작성했던 코드보다 더 나은 것을 만들기 위해 노력하는 개발자입니다.
+
+카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다.
+
+JPA, Kafka, DDD와 MSA, Kotlin 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다.
+
 
 Age : 24 💦<br/>
 Email : Coffeescript@kakao.com💬<br/><br/>
@@ -22,9 +27,11 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
  <br/>
 
-[Tistory Blog](https://lob-dev.tistory.com) <br/>
+[Blog](https://lob-dev.tistory.com) <br/>
 
 [Notion](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912) <br/>
+
+[Resume](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) <br/>
 
 <br/>
 
