@@ -29,7 +29,8 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 ## Blog - Tistory
 
-Tistory [link](https://lob-dev.tistory.com) 겪었던 문제에 대한 글과 학습 글을 정리하고 포스팅하는 공간입니다. 부족하지만 꾸준히 하려고 노력하고 있습니다. <br/>
+Tistory [link](https://lob-dev.tistory.com) <br/>
+겪었던 문제에 대한 글과 학습 글을 정리하고 포스팅하는 공간입니다. 부족하지만 꾸준히 하려고 노력하고 있습니다. <br/>
 - 스프링
 - 자바
 - 기타 등등
@@ -38,7 +39,8 @@ Tistory [link](https://lob-dev.tistory.com) 겪었던 문제에 대한 글과 �
 
 ## Notion
 
-Notion [link](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912) 한주 단위의 학습 이력과 내용을 정리하여 관리하고 있는 개인 Notion 입니다. <br/>
+Notion [link](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912) <br/> 
+한주 단위의 학습 이력과 내용을 정리하여 관리하고 있는 개인 Notion 입니다. <br/>
 - 자바
 - 스프링
 - 네트워크
