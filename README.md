@@ -48,13 +48,6 @@ Notion [link](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc2
 
 <br/>
 
-## 이력서
-
-Notion [Resume](https://www.notion.so/Back-end-Developer-Lob-e51c02b15e89401abe00604d95d4846d) <br/>
-저에 대한 이력과 사용해본 기술, 자잘한 스터디, 발표 이력 등을 정리한 노션 이력서입니다. <br/>
-
-<br/>
-
 ## 온라인 커뮤니티
 
  Discord [Join](https://discord.gg/szKX4CtWBa) <br/>
