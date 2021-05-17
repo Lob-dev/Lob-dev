@@ -5,7 +5,7 @@
 
 카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다.
 
-JPA, Kafka, Docker, Docker Compose, DDD와 MSA, Kotlin,  등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다.
+JPA, Kafka, Docker, Docker Compose, DDD와 MSA, Kotlin, Typescript 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다.
 
 
 Age : 24 💦<br/>
