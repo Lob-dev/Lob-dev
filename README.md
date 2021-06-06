@@ -61,7 +61,7 @@ Notion [link](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc2
 
 ## 신입 개발자의 자바, 스프링 학습 자료
 
-[Link](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts) <br/>
+Repository [Link](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts) <br/>
 오픈 커뮤니티에서 자바 기반의 Back-end 학습에 난항을 겪는 사람들을 도와주기 위해 만든 Repo입니다.
 지속적인 개선, 업데이트를 진행하고 있습니다. 
 - 개선 사항은 오픈 채팅에서 바보 신입 개발자 Lob! 에게 요청바랍니다.
