@@ -3,9 +3,11 @@
 
 기술, 프레임워크에 대하여 구현에만 집중하는 것이 아니라 동작 원리와 흐름을 기반으로 학습하고, 좋은 설계와 코드 등을 찾아보며 이전에 작성했던 코드보다 더 나은 것을 만들기 위해 노력하는 개발자입니다.
 
-카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다.
+카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다. JPA, Docker, Database, Kotlin 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다. 공부한 내용들은 빠짐없이 정리하여 복습하고, 지식공유를 위해 기록해둡니다.
 
-JPA, Kafka, Docker, Docker Compose, DDD와 MSA, Kotlin, Typescript 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다.
+- **[직접 공부하며 정리하고 있는 Java BE 학습 컨텐츠 모음 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts) (Github Star 40)**
+- **[개인 공부 일지 [링크]](https://www.notion.so/Lob-Junior-Developer-be065ebcc7404b17ba74ffc244203912)**
+- **[기술적으로 고민한 내용들을 정리하는 블로그 [링크]](https://lob-dev.tistory.com/)**
 
 
 Age : 24 💦<br/>
@@ -13,38 +15,6 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 
 ---
-
-<br/>
-
-![](https://img.shields.io/github/followers/Lob-dev?style=social)
-
-<br/>
-
-![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
-<br/>
-
- ---
-
- <br/>
-
-## Blog - Tistory
-
-Tistory [link](https://lob-dev.tistory.com) <br/>
-겪었던 문제에 대한 글과 학습 글을 정리하고 포스팅하는 공간입니다. 부족하지만 꾸준히 하려고 노력하고 있습니다. <br/>
-- 스프링
-- 자바
-- 기타 등등
-
-<br/>
-
-## Notion
-
-Notion [link](https://www.notion.so/23-Junior-Developer-be065ebcc7404b17ba74ffc244203912) <br/> 
-한주 단위의 학습 이력과 내용을 정리하여 관리하고 있는 개인 Notion 입니다. <br/>
-- 자바
-- 스프링
-- 네트워크
-- DB 등..
 
 <br/>
 
