@@ -18,9 +18,10 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 <br/>
 
-![](https://img.shields.io/github/followers/Lob-dev?style=social)
-![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
-
+<p align="center">
+ ![Lob's github stats](https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt)
+</p>
+ 
 <br/>
 
 ## Tech Stack
@@ -33,7 +34,7 @@ Email : Coffeescript@kakao.com💬<br/><br/>
  </a>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
- </a> 
+ </a> <br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
  </a>
@@ -42,7 +43,7 @@ Email : Coffeescript@kakao.com💬<br/><br/>
  </a>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
- </a>
+ </a> <br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white"/>
  </a>
