@@ -5,7 +5,7 @@
 
 카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다. JPA, Docker, Database, Kotlin 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다. 공부한 내용들은 빠짐없이 정리하여 복습하고, 지식공유를 위해 기록해둡니다.
 
-- **[직접 공부하며 정리하고 있는 Java BE 학습 컨텐츠 모음 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts)**
+- **[사이드로 진행하는 신입 개발자의 자바, 스프링 학습 자료 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts)**
 - **[개인 공부 일지 [링크]](https://www.notion.so/Lob-Junior-Developer-be065ebcc7404b17ba74ffc244203912)**
 - **[기술적으로 고민한 내용들을 정리하는 블로그 [링크]](https://lob-dev.tistory.com/)**
 
@@ -15,6 +15,14 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 
 ---
+
+<br/>
+
+## Mind & Communication.
+- **점진적인 계획과 목표를 설정하고 달성하는 방식으로 성장하려 합니다.** 이를 통한 성취감을 원동력 삼아 나아가고 있으며, 이러한 것이 학습에 대한 객관적인 판단 지표가 된다고 생각합니다.
+- **획기적인 기술, 신기술을 무조건 따라가지 않습니다.** 세부적인 동작 원리와 구현 방식을 학습하고 상황과 시기에 따라 안정적으로 개발, 운영할 수 있는 기술을 선택하려고 노력합니다.
+- **이해 당사자간의 토론과 지식 공유는 필수 불가결적인 것이라고 생각합니다.** 해당 도메인과 소프트웨어를 이해하지 못하는 개발 팀에게는 한계가 있다고 생각합니다. 비즈니스를 이해하기 위해 매번 고민하고 노력합니다.
+- **함께 자라는 것을 좋아하는 팀과 같이 일하고 싶습니다.** 이를 통해 시너지가 생겨 앞으로 나아갈 동기를 얻을 수 있고, 활발한 토론과 피드백으로 같이 성장해 나갈 수 있음을 믿습니다.
 
 <br/>
 
@@ -28,12 +36,3 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 - Algorithm Study
 - Side Project Review
 - Simulation Technical Interview
-
-<br/>
-
-## 신입 개발자의 자바, 스프링 학습 자료
-
-Repository [Link](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts) <br/>
-오픈 커뮤니티에서 자바 기반의 Back-end 학습에 난항을 겪는 사람들을 도와주기 위해 만든 Repo입니다.
-지속적인 개선, 업데이트를 진행하고 있습니다. 
-- 개선 사항은 오픈 채팅에서 바보 신입 개발자 Lob! 에게 요청바랍니다.
