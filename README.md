@@ -5,7 +5,7 @@
 
 카카오톡, 페이스북, 클럽하우스 등에 존재하는 오픈 커뮤니티들에서 여러 지식과 경험을 듣고 배우며, 여러 문서와 기술 블로그의 Best Practice를 참고하여 성장하고 있습니다. JPA, Docker, Database, Kotlin 등 다양한 기술에 관심을 가지고 있으며 우선 순위를 산정하여 차근차근 학습하고 있습니다. 공부한 내용들은 빠짐없이 정리하여 복습하고, 지식공유를 위해 기록해둡니다.
 
-- **[직접 공부하며 정리하고 있는 Java BE 학습 컨텐츠 모음 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts) (Github Star 40)**
+- **[직접 공부하며 정리하고 있는 Java BE 학습 컨텐츠 모음 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts)**
 - **[개인 공부 일지 [링크]](https://www.notion.so/Lob-Junior-Developer-be065ebcc7404b17ba74ffc244203912)**
 - **[기술적으로 고민한 내용들을 정리하는 블로그 [링크]](https://lob-dev.tistory.com/)**
 
