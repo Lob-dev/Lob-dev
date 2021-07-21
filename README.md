@@ -20,6 +20,7 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
 </p>
  
 <br/>
