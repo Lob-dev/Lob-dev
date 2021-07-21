@@ -27,10 +27,6 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 ## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
-</p>
-
-<p align="center">
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
  </a>
@@ -58,6 +54,12 @@ Email : Coffeescript@kakao.com💬<br/><br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
 </p>
 
 <br/>
