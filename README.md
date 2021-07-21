@@ -20,12 +20,16 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
 </p>
  
 <br/>
 
 ## Tech Stack
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lob-dev&layout=compact&theme=cobalt"/>
+</p>
+
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
