@@ -37,18 +37,21 @@ Email : Coffeescript@kakao.com💬<br/><br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white"/>
  </a>
+ <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?&style=for-the-badge&logo=typescript&logoColor=white"/>
+ </a> <br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
- </a> <br/>
+ </a>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
  </a>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
- </a>
+ </a> <br/>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
- </a> <br/>
+ </a>
  <a target="_blank" rel="noopener noreferrer" herf="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white"/>
  </a>
