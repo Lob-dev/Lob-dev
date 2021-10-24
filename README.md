@@ -17,7 +17,6 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 Age : 24 💦<br/>
 Email : Coffeescript@kakao.com💬<br/><br/> 
 
-
 ---
 
 <br/>
@@ -26,6 +25,10 @@ Email : Coffeescript@kakao.com💬<br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Lob-dev&show_icons=true&theme=cobalt"/>
 </p>
  
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLob-dev%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=spring.svg&icon_color=%2353F531&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br/>
 
 ## Tech Stack
