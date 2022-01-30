@@ -30,16 +30,16 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 ## Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en" alt="lob-dev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en&theme=onedark" alt="lob-dev" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&" alt="lob-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&theme=dark" alt="lob-dev" />
 </p>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lob-dev" alt="lob-dev" />
+    <img src="https://github-profile-trophy.vercel.app/?username=lob-dev&theme=onedark" alt="lob-dev" />
   </a> 
 </p>
 
