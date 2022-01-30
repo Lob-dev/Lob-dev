@@ -6,8 +6,8 @@
 
 Age : 25 💦<br/>
 Email : Coffeescript@kakao.com💬<br/>
-Blog : https://lob-dev.tistory.com/ <br/>
-Notion : https://www.notion.so/Lob-25-Junior-Developer-be065ebcc7404b17ba74ffc244203912 <br/>
+[Blog](https://lob-dev.tistory.com/) <br/>
+[Notion](https://www.notion.so/Lob-25-Junior-Developer-be065ebcc7404b17ba74ffc244203912) <br/>
 
 <br/>
 
