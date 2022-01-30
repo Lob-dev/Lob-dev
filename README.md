@@ -34,7 +34,7 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&theme=dark" alt="lob-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&theme=onedark" alt="lob-dev" />
 </p>
 
 <p align="left"> 
@@ -48,7 +48,7 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 ## Languages and Tools:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact" alt="lob-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lob-dev" />
 </p>
 
 <p align="left"> 
