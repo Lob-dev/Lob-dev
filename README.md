@@ -68,8 +68,10 @@ Email : Coffeescript@kakao.com💬<br/><br/>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/67903919/151687325-e726af78-e7d9-4ae7-88de-d039600c2e1c.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
+</p>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<p align="left">
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -109,9 +111,15 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact" alt="lob-dev" />
 </p>
-<p>&nbsp;
+
+<br/>
+
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en" alt="lob-dev" />
 </p>
+
+<br/>
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&" alt="lob-dev" />
 </p>
