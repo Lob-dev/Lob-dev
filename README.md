@@ -29,8 +29,14 @@ Email : Coffeescript@kakao.com💬<br/><br/>
   </a> 
 </p>
 
-<img style="max-width:100%" src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en" alt="lob-dev" />
- 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en" alt="lob-dev" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&" alt="lob-dev" />
+</p>
+
 <br/>
 
 ## Languages and Tools:
@@ -108,8 +114,7 @@ Email : Coffeescript@kakao.com💬<br/><br/>
 </p>
 
 <p>
-  <img style="max-width:100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact" alt="lob-dev" />
-  <img style="max-width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&" alt="lob-dev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact" alt="lob-dev" />
 </p>
 
 <br/>
