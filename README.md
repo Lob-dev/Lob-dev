@@ -9,6 +9,8 @@ Email : Coffeescript@kakao.com💬<br/>
 Blog : https://lob-dev.tistory.com/ <br/>
 Notion : https://www.notion.so/Lob-25-Junior-Developer-be065ebcc7404b17ba74ffc244203912 <br/>
 
+<br/>
+
 ## Introduce:
 
 구현과 기능에만 집중하지 않고 세부 동작 원리와 처리 흐름을 기반으로 학습하기를 노력하고, 좋은 설계와 코드를 찾아보며 이전에 만들었던 것보다 더 나은 것을 만들기 위해 노력하는 개발자입니다.
@@ -22,6 +24,8 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 - **[사이드로 진행하는 신입 개발자의 자바, 스프링 학습 자료 [링크]](https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts)**
 - **[개인 공부 일지 [링크]](https://www.notion.so/Lob-Junior-Developer-be065ebcc7404b17ba74ffc244203912)**
 - **[기술적으로 고민한 내용들을 정리하는 블로그 [링크]](https://lob-dev.tistory.com/)**
+
+<br/>
 
 ## Stats:
 
