@@ -2,14 +2,14 @@
 
 <br/>
 
-## 👻 SeokHyun Kim // Lob:
+## 👻 SeokHyun Kim // Lob
 
 Age : 25 💦<br/>
 Email : Coffeescript@kakao.com💬<br/>
 
 <br/>
 
-## Introduce:
+## Introduce
 
 구현과 기능에만 집중하지 않고 세부 동작 원리와 처리 흐름을 기반으로 학습하기를 노력하고, 좋은 설계와 코드를 찾아보며 이전에 만들었던 것보다 더 나은 것을 만들기 위해 노력하는 개발자입니다.
 
@@ -25,7 +25,7 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 
 <br/>
 
-## Stats:
+## Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en&theme=onedark" alt="lob-dev" />
@@ -43,7 +43,7 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 
 <br/>
 
-## Languages and Tools:
+## Languages and Tools
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lob-dev" />
