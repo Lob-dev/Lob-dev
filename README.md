@@ -43,7 +43,7 @@ Data, Container, HA, 성능 향상 기법 등 다양한 것들에 관심을 가�
 
 <br/>
 
-## Languages, Framewrk and Tools Experience
+## Languages, Framework and Tools Experience
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lob-dev" />
