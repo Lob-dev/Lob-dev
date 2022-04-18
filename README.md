@@ -4,7 +4,7 @@
 
 ## 👻 SeokHyun Kim // Lob
 
-Age : 25 💦<br/>
+Age : 24 💦<br/>
 Email : Coffeescript@kakao.com💬<br/>
 
 <br/>
