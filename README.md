@@ -120,10 +120,13 @@ Email : Coffeescript@kakao.com💬<br/>
 ## Community.
 
  Discord [Join](https://discord.gg/szKX4CtWBa) <br/>
-누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
+누구나 오셔서 자유롭게 이야기 하실 수 있습니다.
+오셔서 같이 공부하자고 하시는 분들 매우 환영합니다
 음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다.
-- Live coding
-- Kubernetes Study
-- Algorithm Study
-- Side Project Review
-- Simulation Technical Interview
+
+Kubernetes Study
+Real MySQL 8.0 Study
+Side Project Review
+Simulation Technical Interview
+Live coding
+스터디는 Discord 채널의 스터디 모집 채널에서 모집하고 진행합니다.
