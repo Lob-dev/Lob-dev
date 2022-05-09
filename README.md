@@ -124,9 +124,9 @@ Email : Coffeescript@kakao.com💬<br/>
 오셔서 같이 공부하자고 하시는 분들 매우 환영합니다
 음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다.
 
-Kubernetes Study
-Real MySQL 8.0 Study
-Side Project Review
-Simulation Technical Interview
-Live coding
+Kubernetes Study <br/>
+Real MySQL 8.0 Study <br/>
+Side Project Review <br/>
+Simulation Technical Interview <br/>
+Live coding <br/>
 스터디는 Discord 채널의 스터디 모집 채널에서 모집하고 진행합니다.
