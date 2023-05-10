@@ -26,9 +26,6 @@ Blog : https://lob-dev.tistory.com/ <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
   </a>
@@ -38,9 +35,6 @@ Blog : https://lob-dev.tistory.com/ <br/>
   <a href="https://www.jooq.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/67903919/151687129-897c968d-182b-42d8-8ff6-ea3d5e00f2b6.svg" alt="jooq" width="60" height="60"/> 
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/67903919/151687325-e726af78-e7d9-4ae7-88de-d039600c2e1c.svg" alt="fastapi" width="60" height="60"/> 
-  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a> 
