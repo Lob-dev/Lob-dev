@@ -11,8 +11,8 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
-## 경력 
-- Kakaostyle. 2021.05 ~ (current)
+## 경력 (3rd year)
+- Kakaostyle. 2023.05 ~ (current)
 - EstSoft. 2021.07 ~ 2023.05
 - Niceday. 2021.03 ~ 2021.07
 
