@@ -2,49 +2,23 @@
 
 <br/>
 
-## 👻 SeokHyun Kim // Lob
+## 👻 SeokHyeon Kim // Lob 
 
-Age : 25 💦<br/>
-Email : Coffeescript@kakao.com💬<br/>
-
-<br/>
-
-## Introduce.
-
-특정 언어나 생태계에 종속되지 않는 지식을 얻기 위해서 핵심 아이디어를 이해하려 노력하고 지속적으로 CS나 여러 설계 방식을 찾아 비교 학습하여 더 좋은 서비스를 만들기 위해 노력하는 2년 차 백엔드 개발자입니다. 
-
-최근에는 MSA Structure와 Service High Availability, Scalability을 키우는 요소들에 관심을 가지고 있습니다, 
-
-- **항상 기술의 Trade-Off를 고민합니다.** 학습에 있어서 핵심적인 아이디어, 세부적인 동작 원리를 중요시하며 팀의 상황과 필요한 제약에 따라 안정적으로 적용할 수 있는 기술을 선택하려고 합니다.
-- **이해 당사자 간의 기획, 토론과 지식 공유를 중요하게 생각합니다.** 도메인과 정책을 이해하지 못하는 사람에게는 한계가 있다고 생각합니다. 항상 개발하는 도메인과 정책을 이해하기 위해 노력하고 있습니다.
-- **성장하길 원하는 사람들과 같이 일하는 것을 즐깁니다.** 성장 욕구를 기반으로 한 시너지를 통해 성장하려는 동기를 얻을 수 있고, 지속적인 의견 공유와 토론으로 계속해서 성장해 나가려 노력하고 있습니다.
+Age : Born in 1998(26)💦 <br/>
+Email : Coffeescript@kakao.com💬 <br/>
+Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2/
+Blog : https://lob-dev.tistory.com/
 
 <br/>
 
-## Stats.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lob-dev&show_icons=true&locale=en&theme=onedark" alt="lob-dev" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lob-dev&theme=onedark" alt="lob-dev" />
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lob-dev&theme=onedark" alt="lob-dev" />
-  </a> 
-</p>
+## 경력 
+- Kakaostyle. 2021.05 ~ (current)
+- EstSoft. 2021.07 ~ 2023.05
+- Niceday. 2021.03 ~ 2021.07
 
 <br/>
 
 ## Skills.
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lob-dev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lob-dev" />
-</p>
-
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
@@ -52,13 +26,9 @@ Email : Coffeescript@kakao.com💬<br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a> 
-
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
   </a>
@@ -68,49 +38,34 @@ Email : Coffeescript@kakao.com💬<br/>
   <a href="https://www.jooq.org/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/67903919/151687129-897c968d-182b-42d8-8ff6-ea3d5e00f2b6.svg" alt="jooq" width="60" height="60"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> 
-  </a> 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/67903919/151687325-e726af78-e7d9-4ae7-88de-d039600c2e1c.svg" alt="fastapi" width="60" height="60"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/> 
-  </a> 
-
   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> 
   </a> 
-  
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="60" height="60"/> 
-  </a> 
-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
   </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> 
-  </a> 
-
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="60" height="60"/> 
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-  </a> 
 </p>
 
+<br/>
+
+### Discord [Join](https://discord.gg/7qNA6tG)<br/>
+누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
+오셔서 같이 공부하자고 하시는 분들 매우 환영합니다. <br/>
+음성 채팅을 하며 공부하기도 하고, 모르는 내용에 대해 서로 질의응답을 가지고 있습니다. <br/>
+
+* [Kubernetes Study](https://docs.google.com/document/d/1AHvW8u5psKfAk7yyKRuMKowOMWjz64d12vSxBzFcAOs/edit)
+* [Real MySQL 8.0 Study](https://docs.google.com/document/d/1wV__EgYUYXwHFUCcX8JN11d75k4RgA_Zj4_C8Hbk4DQ/edit#)
+* [Side Project Review](https://github.com/orgs/E-TF/repositories)
+* Simulation Technical Interview
+* Live coding
+
+스터디는 Discord 채널의 `스터디 모집` 채널에서 모집하고 진행합니다. <br/>
