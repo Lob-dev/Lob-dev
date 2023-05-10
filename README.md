@@ -5,7 +5,7 @@
 ## 👻 SeokHyeon Kim // Lob 
 
 Age : Born in 1998(26)💦 <br/>
-Email : Coffeescript@kakao.com💬 <br/>
+Email : coffeescript@kakao.com💬 <br/>
 Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2/ <br/>
 Blog : https://lob-dev.tistory.com/ <br/>
 
