@@ -18,7 +18,7 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
-## Skills.
+## 사용 기술 스택
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
@@ -57,6 +57,7 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
+## 커뮤니티
 ### Discord [Join](https://discord.gg/7qNA6tG)<br/>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
 오셔서 같이 공부하자고 하시는 분들 매우 환영합니다. <br/>
