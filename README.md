@@ -11,14 +11,14 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
-## 경력 (3rd year)
+## 경력 
 - Kakaostyle. 2023.05 ~ (current)
 - EstSoft. 2021.07 ~ 2023.05
 - Niceday. 2021.03 ~ 2021.07
 
 <br/>
 
-## 사용 기술 스택
+## 사용 기술 스택 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
@@ -57,7 +57,7 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
-## 커뮤니티
+## 커뮤니티 
 ### Discord [Join](https://discord.gg/7qNA6tG)<br/>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
 오셔서 같이 공부하자고 하시는 분들 매우 환영합니다. <br/>
