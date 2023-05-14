@@ -21,7 +21,7 @@ Blog : https://lob-dev.tistory.com/ <br/>
 ## 사용 기술 스택 
 <p align="left"> 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> 
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
