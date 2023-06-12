@@ -32,6 +32,12 @@ Blog : https://lob-dev.tistory.com/ <br/>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
   </a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/7fff36de-35c6-4355-8cf9-5040acb84458" alt="Representational_state_transfer" width="60" height="60"/> 
+  </a>
+  <a href="https://github.com/graphql/graphql-spec" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/1d6ce16a-8392-4dce-9e7b-fe494a7eda32" alt="graphql" width="60" height="60"/> 
+  </a>
   <a href="https://en.wikipedia.org/wiki/Jakarta_Persistence" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/67903919/151687201-299dd254-b976-43d8-8d4d-0571c5cb48f3.svg" alt="jpa" width="60" height="60"/> 
   </a>
