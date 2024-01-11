@@ -12,9 +12,9 @@ Blog : https://lob-dev.tistory.com/ <br/>
 <br/>
 
 ## 경력 
-- Kakaostyle. 2023.05 ~ (current)
-- EstSoft. 2021.07 ~ 2023.05
-- Niceday. 2021.03 ~ 2021.07
+- Kakaostyle backend engineer. 2023.05 ~ now
+- EstSoft backend engineer. 2021.07 ~ 2023.05
+- Niceday backend engineer. 2021.03 ~ 2021.07
 
 <br/>
 
