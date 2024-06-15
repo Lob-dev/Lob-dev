@@ -18,48 +18,6 @@ Blog : https://lob-dev.tistory.com/ <br/>
 
 <br/>
 
-## 사용 기술 스택 
-<p align="left"> 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/7fff36de-35c6-4355-8cf9-5040acb84458" alt="Representational_state_transfer" width="60" height="60"/> 
-  </a>
-  <a href="https://github.com/graphql/graphql-spec" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/Lob-dev/Lob-dev/assets/67903919/1d6ce16a-8392-4dce-9e7b-fe494a7eda32" alt="graphql" width="60" height="60"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Jakarta_Persistence" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/67903919/151687201-299dd254-b976-43d8-8d4d-0571c5cb48f3.svg" alt="jpa" width="60" height="60"/> 
-  </a>
-  <a href="https://www.jooq.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/67903919/151687129-897c968d-182b-42d8-8ff6-ea3d5e00f2b6.svg" alt="jooq" width="60" height="60"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
-  </a> 
-</p>
-
-<br/>
-
 ## 커뮤니티 
 ### Discord [Join](https://discord.gg/7qNA6tG)<br/>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
