@@ -4,17 +4,25 @@
 
 ## 👻 SeokHyeon Kim // Lob 
 
-Age : Born in 1998💦 <br/>
 Email : coffeescript@kakao.com💬 <br/>
-Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2/ <br/>
-Blog : https://lob-dev.tistory.com/ <br/>
+Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
 
 ## 경력 
-- Kakaostyle backend engineer. 2023.05 ~ now
+- ?
+- Kakaostyle backend engineer. 2023.05 ~ 2024.09
 - EstSoft backend engineer. 2021.07 ~ 2023.05
 - Niceday backend engineer. 2021.03 ~ 2021.07
+
+<br/>
+
+## 기타 경험
+
+- 게으른 개발자 컨퍼런스 1회 연사 ("소비자 관점의 API 설계 패턴 및 사례 훑어보기"). 2024.05
+- 한국 스프링 사용자 그룹 일꾼단 활동. 2024.02 ~ now
+- 사내 발표 경험 (JVM & GC, MSA 환경에서의 데이터 일관성)
+- 충북대학교 개발 동아리 발표 (2021.12)
 
 <br/>
 
