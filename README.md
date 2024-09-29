@@ -17,15 +17,6 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
 
-## 기타 경험
-
-- 게으른 개발자 컨퍼런스 1회 연사 ("소비자 관점의 API 설계 패턴 및 사례 훑어보기"). 2024.05
-- 한국 스프링 사용자 그룹 일꾼단 활동. 2024.02 ~ now
-- 사내 발표 경험 (JVM & GC, MSA 환경에서의 데이터 일관성)
-- 충북대학교 개발 동아리 발표 (2021.12)
-
-<br/>
-
 ## 커뮤니티 
 ### Discord [Join](https://discord.gg/7qNA6tG)<br/>
 누구나 오셔서 자유롭게 이야기 하실 수 있습니다. <br/>
