@@ -10,7 +10,7 @@ Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 <br/>
 
 ## 경력 
-- ?
+- Bolta product engineer. 2024.10 ~ now
 - Kakaostyle backend engineer. 2023.05 ~ 2024.09
 - EstSoft backend engineer. 2021.07 ~ 2023.05
 - Niceday backend engineer. 2021.03 ~ 2021.07
