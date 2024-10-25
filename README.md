@@ -4,7 +4,6 @@
 
 ## 👻 SeokHyeon Kim // Lob 
 
-Email : coffeescript@kakao.com💬 <br/>
 Linkedin : https://www.linkedin.com/in/seokhyeon-kim-6674501b2 <br/>
 
 <br/>
